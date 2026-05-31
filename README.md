@@ -1,0 +1,2 @@
+# GIMP
+Gimp Config
